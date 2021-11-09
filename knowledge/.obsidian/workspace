@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "0a12193100ec5f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "b48b12b7a235ffbf",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e44b4658fc34f485",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a54764e4942e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba544cfe655c0dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c42e0a9ebbc19c08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06212e4510702e7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e696eeed6cddb24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c46f197590d18318",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b48b12b7a235ffbf",
+  "lastOpenFiles": [
+    "Tools/aircrack-ng.md",
+    "malware analysis/oletools oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging..md"
+  ]
+}
