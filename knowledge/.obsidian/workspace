@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "malware analysis/XLMMacroDeobfuscator Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros).md",
+            "file": "malware analysis/dot NET analysis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malware analysis/XLMMacroDeobfuscator Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros).md",
+                "file": "malware analysis/dot NET analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,13 @@
   },
   "active": "b48b12b7a235ffbf",
   "lastOpenFiles": [
-    "malware analysis/XLMMacroDeobfuscator Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros).md",
+    "malware analysis/dot NET analysis.md",
     "malware analysis/oletools oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging..md",
+    "xlmdeobfuscator.md",
+    ".NET analysis.md",
+    "linux misc..md",
+    "Directory fuzzing.md",
+    "malware analysis/XLMMacroDeobfuscator Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros).md",
     "Tools/aircrack-ng.md"
   ]
 }
