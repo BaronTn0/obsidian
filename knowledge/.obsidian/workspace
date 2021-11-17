@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "malware analysis/dot NET analysis.md",
-            "mode": "source"
+            "file": "malware analysis/Excel VBA password braker.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "malware analysis/dot NET analysis.md",
+                "file": "malware analysis/Excel VBA password braker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "b48b12b7a235ffbf",
   "lastOpenFiles": [
+    "malware analysis/Excel VBA password braker.md",
+    "malware analysis/Analyzing Malicious Documents Cheat Sheet.md",
     "malware analysis/dot NET analysis.md",
     "malware analysis/oletools oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging..md",
     "xlmdeobfuscator.md",
