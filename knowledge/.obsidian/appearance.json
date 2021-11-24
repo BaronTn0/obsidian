@@ -1,3 +1,7 @@
 {
-  "baseFontSize": 15
+  "baseFontSize": 24,
+  "enabledCssSnippets": [
+    "obsidian-minimal-tweaks"
+  ],
+  "cssTheme": "Red Graphite"
 }

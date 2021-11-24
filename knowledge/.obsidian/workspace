@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b48b12b7a235ffbf",
+        "id": "c1a7c0dad995c9e4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "help/reconnaissance/nmap.md",
+            "file": "help/fuzzing/feroxbuster.md",
             "mode": "source"
           }
         }
@@ -52,12 +52,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283
   },
   "right": {
     "id": "06212e4510702e7d",
     "type": "split",
     "children": [
+      {
+        "id": "99e5116cbd6a9438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2e53b3757e87b37",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "1e696eeed6cddb24",
         "type": "tabs",
@@ -68,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "help/reconnaissance/nmap.md",
+                "file": "help/fuzzing/feroxbuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +97,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 307
   },
-  "active": "b48b12b7a235ffbf",
+  "active": "c1a7c0dad995c9e4",
   "lastOpenFiles": [
-    "help/reconnaissance/nmap.md",
-    "malware analysis/Analyzing Malicious Documents Cheat Sheet.md",
-    "memo/Tools/nmap.md",
     "help/fuzzing/feroxbuster.md",
-    "help/fuzzing/fzf.md",
-    "memo/Tools/Directory fuzzing.md",
-    "memo/Tools/hydra.md",
-    "memo/Tools/aircrack-ng.md",
+    "help/maldoc analysis/xlmdeobfuscator.md",
+    "malware analysis/dot NET analysis.md",
+    "help/reconnaissance/nmap.md",
+    "vmware-ubuntu-shareing.md",
     "linux misc..md",
-    "vmware-ubuntu-shareing.md"
+    "malware analysis/oletools oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging..md",
+    "malware analysis/Analyzing Malicious Documents Cheat Sheet.md",
+    "help/fuzzing/fzf.md",
+    "2021-11-25.md"
   ]
 }

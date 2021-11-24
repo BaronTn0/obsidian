@@ -1,1 +1,5 @@
-{}
+{
+  "promptDelete": false,
+  "lineWrap": true,
+  "showFrontmatter": false
+}
