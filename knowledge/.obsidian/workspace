@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "help/fuzzing/feroxbuster.md",
-            "mode": "source"
+            "file": "vmware on scureboot.md",
+            "mode": "preview"
           }
         }
       }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "help/fuzzing/feroxbuster.md",
+                "file": "vmware on scureboot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,10 +97,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 307,
+    "collapsed": true
   },
   "active": "c1a7c0dad995c9e4",
   "lastOpenFiles": [
+    "vmware on scureboot.md",
     "help/fuzzing/feroxbuster.md",
     "help/maldoc analysis/xlmdeobfuscator.md",
     "malware analysis/dot NET analysis.md",
@@ -109,7 +111,6 @@
     "linux misc..md",
     "malware analysis/oletools oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging..md",
     "malware analysis/Analyzing Malicious Documents Cheat Sheet.md",
-    "help/fuzzing/fzf.md",
-    "2021-11-25.md"
+    "help/fuzzing/fzf.md"
   ]
 }
